@@ -9,8 +9,7 @@
 3.pytest --pylint --cov   
 
 # video
-can be found in video folder
-
+can be found at (https://drive.google.com/drive/folders/1-CdxOUPztQ8vS6rCfJr58xTFbTC_UsCB)
 # Logging
 I used logging by creating a logger.py inside data folder and configuring it so that it saves all logs to logs.txt inside data folder
 i wanted to avoid repudation so i created the logger.py as kind of a module that i can call on in every file where i needed logging without having
